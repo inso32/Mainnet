@@ -1,2 +1,4 @@
 1. Download the Mainnet Debian package  v6.0.4
 2. Install the package
+sudo apt install /path-to-downloaded-package
+
