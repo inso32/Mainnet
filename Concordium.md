@@ -1,4 +1,4 @@
-Files system structure
+## **Files system structure**
 
 Database - database-v4
 var/lib/private/concordium-9dd9ca4d19e9393877d2c44b70f89acbfc0883c2243e5eeaecc0d1cd0503f478/data/database-v4
@@ -8,7 +8,7 @@ Database содержит файлы blockstate-0.dat ... и папки  treesta
 2. Install the package
     sudo apt install /path-to-downloaded-package
 
-Useful commands
+## **Useful commands**
 
 View logs
 journalctl -u concordium-mainnet-node -f
