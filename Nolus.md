@@ -1,10 +1,19 @@
 ## **Useful commands**
 
+List all keys
 
-Узнать address
+```
+nolusd keys list
+```
+
+Find out the address
 ~~~
 nolusd keys show Atlas.Node -a
 ~~~
+
+How to find out address and voloperaddress using explorer?
+
+Open the validator and click on the transaction at the bottom in the Transactions section.
 
 ## **Balance**
 
