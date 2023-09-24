@@ -1,4 +1,5 @@
-Site
+**Nolus - The Cross-Chain Lease Protocol**
+
 ```
 https://nolus.io/
 ```
