@@ -1,2 +1,2 @@
 # Mainnet
-Mainnet instructions
+All about Mainnet
