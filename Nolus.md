@@ -1,5 +1,21 @@
 ## **Useful commands**
 
+View the logs
+```
+journalctl -u cosmovisor -f
+```
+
+Query the status of your node
+```
+curl http://localhost:26657/status | jq .result.sync_info.catching_up
+```
+
+true - node is still syncing
+
+false - node has caught up to the current state of the network, and you are safe to upgrade your node to a validator
+
+
+
 List all keys
 
 ```
