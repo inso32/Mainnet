@@ -1,9 +1,5 @@
 ## **Useful commands**
 
-View the logs
-```
-journalctl -u cosmovisor -f
-```
 
 Query the status of your node
 ```
