@@ -15,6 +15,15 @@ How to find out address and voloperaddress using explorer?
 
 Open the validator and click on the transaction at the bottom in the Transactions section.
 
+## **Start service and check the logs**
+```
+sudo systemctl start nolusd
+```
+```
+journalctl -u nolusd -f --no-hostname -o cat
+```
+
+
 ## **Balance**
 
 nolusd query bank balances [address]
