@@ -2,18 +2,15 @@
 
 [Site](https://nolus.io/)
 
+[Nolus App Dashboard](https://app.nolus.io/stats)
 
-**Nolus App Dashboard**
-```
-https://app.nolus.io/stats
-```
+[Explorer](https://explorer.nolus.io/pirin-1/)
 
-**Docs**
-```
-https://docs-nolus-protocol.notion.site/
-```
+[Docs](https://docs-nolus-protocol.notion.site/)
 
-Kjnodes
-```
-https://services.kjnodes.com/
-```
+[Nolus Support](https://hub.nolus.io/)
+
+
+
+## Validators
+* [Kjnodes](https://services.kjnodes.com/)
