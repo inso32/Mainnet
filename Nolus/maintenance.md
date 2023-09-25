@@ -9,7 +9,9 @@ nolusd status 2>&1 | jq .ValidatorInfo
 nolusd status 2>&1 | jq .SyncInfo
 
 ```
-catching_up: false
+catching_up: false - node has caught up to the current state of the network
+
+catching_up: true - node is still syncing
 
 
 **Get live peers**
