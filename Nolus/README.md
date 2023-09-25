@@ -1,10 +1,7 @@
 # Nolus - The Cross-Chain Lease Protocol
 
-Site (https://nolus.io/)
+[Site](https://nolus.io/)
 
-```
-https://nolus.io/
-```
 
 **Nolus App Dashboard**
 ```
