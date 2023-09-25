@@ -10,8 +10,8 @@ nolusd status 2>&1 | jq .SyncInfo
 
 ```
 catching_up:<br>
-<b>false</b> - node has caught up to the current state of the network<br>
-<b>true</b> - node is still syncing
+- <b>false</b> - node has caught up to the current state of the network<br>
+- <b>true</b> - node is still syncing
 
 
 ## Get live peers
