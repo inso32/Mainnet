@@ -1,10 +1,10 @@
-**Get validator info**
+## Get validator info
 ```
 nolusd status 2>&1 | jq .ValidatorInfo
 
 ```
 
-**Get sync info**
+## Get sync info
 ```
 nolusd status 2>&1 | jq .SyncInfo
 
@@ -14,13 +14,13 @@ catching_up:<br>
 <b>true</b> - node is still syncing
 
 
-**Get live peers**
+## Get live peers
 
 ```
 curl -sS http://localhost:14357/net_info | jq -r '.result.peers[] | "\(.node_info.id)@\(.remote_ip):\(.node_info.listen_addr)"' | awk -F ':' '{print $1":"$(NF)}'
 ```
 
-**Remove Node**
+## Remove Node
 ```
 cd $HOME
 sudo systemctl stop nolusd
