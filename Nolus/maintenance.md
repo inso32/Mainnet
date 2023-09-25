@@ -9,6 +9,8 @@ nolusd status 2>&1 | jq .ValidatorInfo
 nolusd status 2>&1 | jq .SyncInfo
 
 ```
+catching_up: false
+
 
 **Get live peers**
 
