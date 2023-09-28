@@ -12,6 +12,4 @@
 
 - Zealy
   
-![Zealy](https://github.com/inso32/Mainnet/blob/main/Nolus/Images/nolus_zealy_1.png)
-
-
+![Zealy](https://github.com/inso32/Mainnet/blob/main/Concordium/Images/concordium_zealy_1.png)
