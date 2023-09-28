@@ -1,6 +1,7 @@
 
 ## Concordium News
 
+25.09.23 Upgrade to version 6.0.4
 
 
 ## **Files system structure**
