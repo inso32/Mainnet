@@ -11,6 +11,13 @@
 [Nolus Support](https://hub.nolus.io/)
 
 
+## Nolus News
+
+26.09.23 Total Value Locked Reaches $1 Million 
+
+23.05.23 Mainnet Launch
+
+
 
 ## Validators
 * [Kjnodes](https://services.kjnodes.com/)
