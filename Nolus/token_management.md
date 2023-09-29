@@ -1,7 +1,13 @@
-## Withdraw 
+## Query commission
 ```
-nolusd tx distribution withdraw-all-rewards --from wallet --chain-id pirin-1 --gas-adjustment 1.4 --gas auto --fees 2500unls -y
+nolusd query distribution commission nolusvaloper1wxkayzug62vmy84askp5sh79jnc5kkv8gulwsw
 
+```
+
+## Query rewards for a validator and all their delegations
+
+```
+nolusd query distribution validator-outstanding-rewards nolusvaloper1wxkayzug62vmy84askp5sh79jnc5kkv8gulwsw
 
 ```
 
