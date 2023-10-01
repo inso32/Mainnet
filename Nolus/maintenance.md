@@ -20,6 +20,13 @@ catching_up:<br>
 curl -sS http://localhost:14357/net_info | jq -r '.result.peers[] | "\(.node_info.id)@\(.remote_ip):\(.node_info.listen_addr)"' | awk -F ':' '{print $1":"$(NF)}'
 ```
 
+## [Restore a Validator](https://docs-nolus-protocol.notion.site/Run-a-Mainnet-Validator-f64624c3423c4c41922c3a1d0d342e17)
+
+- Set up a full Nolus node synced up to the latest block.
+
+- Replace the ~/.nolus/config/priv_validator.json file of the new node with the associated file from the old node, then restart your node.
+
+
 ## Remove Node
 ```
 cd $HOME
