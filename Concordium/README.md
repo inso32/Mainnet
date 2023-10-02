@@ -4,7 +4,7 @@
 25.09.23 Upgrade to version 6.0.4
 
 
-## **Files system structure**
+## Files system structure
 
 Database - database-v4
 
@@ -14,7 +14,7 @@ The database contains files: blockstate-0.dat ...
 
 and directories:  treestate-0 ...
 
-## **Run a node**
+## Run a node
 
 1. Download the Mainnet Debian package  v6.0.4
 2. Install the package
@@ -22,7 +22,12 @@ and directories:  treestate-0 ...
 sudo apt install /path-to-downloaded-package
 ```
 
-## **Useful commands**
+## [Monitoring](https://medium.com/concordium/how-to-monitor-your-concordium-node-6c329e48c9c0)
+How to set up Prometheus and Grafana
+
+
+
+## Useful commands
 
 View logs
 ```
