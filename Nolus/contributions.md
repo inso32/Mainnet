@@ -7,10 +7,11 @@
 
 
 ## Humanitarian contributions
+
+- Video  [Passive income on USDC](https://youtu.be/AB4SOe17dHE)
+
+
 - Zealy
   
 ![Zealy](https://github.com/inso32/Mainnet/blob/main/Nolus/Images/nolus_zealy_1.png)
 
-- Video
-
-  [Passive income on USDC](https://youtu.be/AB4SOe17dHE)
