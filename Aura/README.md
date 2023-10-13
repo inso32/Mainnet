@@ -1,11 +1,9 @@
-# Aura - The Cross-Chain Lease Protocol
+# Aura - The Layer 1 For Emerging Countries
 
-[Site](https://aura.network.io/)
+[Site](https://aura.network/)
 
-[Docs](https://docs-nolus-protocol.notion.site/)
+[Docs](https://docs.aura.network/)
 
-[Nolus App Dashboard](https://app.nolus.io/stats)
+[Aurascan](https://aurascan.io)
 
-[Explorer](https://explorer.nolus.io/pirin-1/)
 
-[Nolus Support](https://hub.nolus.io/)
