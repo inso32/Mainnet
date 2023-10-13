@@ -1,6 +1,6 @@
 # Aura - The Cross-Chain Lease Protocol
 
-[Site](https://nolus.io/)
+[Site](https://aura.network.io/)
 
 [Docs](https://docs-nolus-protocol.notion.site/)
 
