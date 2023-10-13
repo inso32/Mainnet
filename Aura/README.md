@@ -6,5 +6,5 @@
 
 [Aurascan](https://aurascan.io)
 
-[Coin98](https://wallet.coin98.com/)
+[Coin98 Wallet](https://wallet.coin98.com/)
 
