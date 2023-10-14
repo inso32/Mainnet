@@ -8,3 +8,7 @@
 
 [Coin98 Wallet](https://wallet.coin98.com/)
 
+## Files
+
+- aura - 185 MB
+- .aura - 2.4 GB
