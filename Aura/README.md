@@ -12,3 +12,7 @@
 
 - aura - 185 MB
 - .aura - 2.4 GB
+
+## Validators
+- [KJnodes](https://services.kjnodes.com/mainnet/aura/)
+- [NodeJumper](https://app.nodejumper.io/aura)
