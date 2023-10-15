@@ -17,7 +17,10 @@
 
 23.05.23 Mainnet Launch
 
+## Files
 
+- nolus-core (13 MB)
+- .nolus (53 GB)
 
 ## Validators
 * [Kjnodes](https://services.kjnodes.com/)
