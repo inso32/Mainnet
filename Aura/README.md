@@ -10,8 +10,8 @@
 
 ## Files
 
-- aura - 185 MB
-- .aura - 2.4 GB
+- aura (185 MB)
+- .aura (2.4 GB)
 
 ## Validators
 - [KJnodes](https://services.kjnodes.com/mainnet/aura/)
