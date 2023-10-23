@@ -1,5 +1,6 @@
 
 ## Concordium News
+23.09.23 Upgrade to version 6.0.4
 
 25.09.23 Upgrade to version 6.0.4
 
