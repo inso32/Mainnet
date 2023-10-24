@@ -10,6 +10,7 @@
 
 - Video  [Passive income on USDC](https://youtu.be/AB4SOe17dHE)
 
+- Video  [Delegate NLS using Nolus Explorer.](https://youtu.be/THQVUsTN2vk)
 
 - Zealy
   
