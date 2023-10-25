@@ -6,7 +6,9 @@
 
 [Finder - Explorer](https://finder.kujira.network/)
 
+[BLUE - Dashboard](https://blue.kujira.network/)
 
+[FIN - DEX Trading](https://fin.kujira.network/)
 
 
 ## Kujira News
