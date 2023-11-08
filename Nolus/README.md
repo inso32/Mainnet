@@ -13,6 +13,8 @@
 
 ## Nolus News
 
+07.11.23 NLS is now available on Mexc
+
 26.09.23 Total Value Locked Reaches $1 Million 
 
 23.05.23 Mainnet Launch
