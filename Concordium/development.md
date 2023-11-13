@@ -17,3 +17,7 @@ cargo concordium --help
 ~~~
 warning: spurious network error (1 tries remaining): [7] Couldn't connect to server (Failed to connect to index.crates.io port 443 after 0 ms: Couldn't connect to server)
 error: failed to compile `cargo-concordium v3.1.4`, intermediate artifacts can be found at `/tmp/cargo-installjW7DcA`.
+
+~~~
+cargo-concordium concordium init
+~~~
