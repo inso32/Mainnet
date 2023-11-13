@@ -8,3 +8,10 @@ Use rustup to install the Wasm
 ```
 rustup target add wasm32-unknown-unknown
 ```
+Install cargo-concordium
+~~~
+ cargo install --locked cargo-concordium
+~~~
+~~~
+cargo concordium --help
+~~~
