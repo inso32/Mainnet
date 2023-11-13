@@ -1,4 +1,4 @@
-Doc https://developer.concordium.software/en/mainnet/smart-contracts/guides/setup-tools.html
+[Doc](https://developer.concordium.software/en/mainnet/smart-contracts/guides/setup-tools.html)
 
 Install rustup (installer for Rust, which installs both Rust and Cargo)
 ```
