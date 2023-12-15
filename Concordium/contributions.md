@@ -1,8 +1,8 @@
-# Atlas.Node contrbutions for [Concordium](https://concordium.com/)
+# Auromine contrbutions for [Concordium](https://concordium.com/)
 
 ## Technical Contributions
 
-- [Baker 89706](https://ccdscan.io/?dcount=1&dentity=baker&did=89706)
+- [Validator 89706](https://ccdscan.io/?dcount=1&dentity=baker&did=89706)
 
 
 ## Humanitarian contributions
